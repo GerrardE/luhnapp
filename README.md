@@ -1,6 +1,6 @@
 <p align="center">Luhn App<img src="#"></p>
 
-## About PhotoShow
+## About Luhn App
 
 [Luhn App] is a simple web application for verifying Identity, Credit Card and other forms of Security Numbers. The app verifies numbers on input.
 
