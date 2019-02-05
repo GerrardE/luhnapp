@@ -14,7 +14,7 @@
 
 - [Ezeugwa Gerrard](https://gerrarde.github.io/gerrard).
 
-The application is hosted at [Luhn App](http://gerrarde.github.io/luhnapp).
+The application is hosted at [Luhn App](http://gerrarde.github.io/luhnapp/index.html).
 
 ## Contributing
 
