@@ -1,0 +1,70 @@
+/* CSS Styling */
+body{
+font-family: monospace, serif;
+}
+
+img {
+	height: 300px;
+	width: 400px;
+}
+
+.main {
+	width: 450px;
+	height: 630px;
+	border: 2px solid #b2beb5;
+	margin: 0px 0px 0px 0px;
+	/* -webkit-box-shadow: 10px 10px 6px 0px rgba(199,185,199,1);
+	-moz-box-shadow: 10px 10px 6px 0px rgba(199,185,199,1); */
+	box-shadow: 10px 10px 6px 0px rgba(199,185,199,1);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%)
+}
+
+h3 {
+	font-size: 25px;
+	line-height: 1px;
+	padding: 2px;
+	max-width: 300px;
+}
+
+.first {
+font-style: italic;	
+}
+
+.card {
+	width: 450px;
+	height: 700px;
+	padding: 0px 25px 0px 25px;
+}
+
+.fact {
+	width: 380px;
+	border: 1px solid #b2beb5;
+	padding: 10px;
+} 
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.number {
+	width: 290px;
+	height: 30px;
+	border: 1px solid #b2beb5;
+}
+
+.button {
+	width: 65px;
+	height: 30px;
+	padding: 2px;
+	background-color: #5861e6;
+	color: #fff;
+}
